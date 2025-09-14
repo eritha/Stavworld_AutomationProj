@@ -1,0 +1,111 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eritha/Library/CloudStorage/OneDrive-Personal/Workspage/Stavworld_AutomationProj/Stavworld_Csharp_Selenium_Specflow_Nunit/Stavworld_Csharp_Selenium_Specflow_Nunit.csproj": {}
+  },
+  "projects": {
+    "/Users/eritha/Library/CloudStorage/OneDrive-Personal/Workspage/Stavworld_AutomationProj/Stavworld_Csharp_Selenium_Specflow_Nunit/Stavworld_Csharp_Selenium_Specflow_Nunit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eritha/Library/CloudStorage/OneDrive-Personal/Workspage/Stavworld_AutomationProj/Stavworld_Csharp_Selenium_Specflow_Nunit/Stavworld_Csharp_Selenium_Specflow_Nunit.csproj",
+        "projectName": "Stavworld_Csharp_Selenium_Specflow_Nunit",
+        "projectPath": "/Users/eritha/Library/CloudStorage/OneDrive-Personal/Workspage/Stavworld_AutomationProj/Stavworld_Csharp_Selenium_Specflow_Nunit/Stavworld_Csharp_Selenium_Specflow_Nunit.csproj",
+        "packagesPath": "/Users/eritha/.nuget/packages/",
+        "outputPath": "/Users/eritha/Library/CloudStorage/OneDrive-Personal/Workspage/Stavworld_AutomationProj/Stavworld_Csharp_Selenium_Specflow_Nunit/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eritha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "BoDi": {
+              "target": "Package",
+              "version": "[1.5.0, )"
+            },
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "SpecFlow": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "SpecFlow.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.9.74, )"
+            },
+            "WebDriverManager": {
+              "target": "Package",
+              "version": "[2.17.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
